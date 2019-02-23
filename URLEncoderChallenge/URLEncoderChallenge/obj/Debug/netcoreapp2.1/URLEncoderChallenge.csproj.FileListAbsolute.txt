@@ -1,0 +1,11 @@
+/Users/candacem/Documents/Projects/URLChallenge/URLEncoderChallenge/URLEncoderChallenge/bin/Debug/netcoreapp2.1/URLEncoderChallenge.deps.json
+/Users/candacem/Documents/Projects/URLChallenge/URLEncoderChallenge/URLEncoderChallenge/bin/Debug/netcoreapp2.1/URLEncoderChallenge.runtimeconfig.json
+/Users/candacem/Documents/Projects/URLChallenge/URLEncoderChallenge/URLEncoderChallenge/bin/Debug/netcoreapp2.1/URLEncoderChallenge.runtimeconfig.dev.json
+/Users/candacem/Documents/Projects/URLChallenge/URLEncoderChallenge/URLEncoderChallenge/bin/Debug/netcoreapp2.1/URLEncoderChallenge.dll
+/Users/candacem/Documents/Projects/URLChallenge/URLEncoderChallenge/URLEncoderChallenge/bin/Debug/netcoreapp2.1/URLEncoderChallenge.pdb
+/Users/candacem/Documents/Projects/URLChallenge/URLEncoderChallenge/URLEncoderChallenge/obj/Debug/netcoreapp2.1/URLEncoderChallenge.csprojAssemblyReference.cache
+/Users/candacem/Documents/Projects/URLChallenge/URLEncoderChallenge/URLEncoderChallenge/obj/Debug/netcoreapp2.1/URLEncoderChallenge.csproj.CoreCompileInputs.cache
+/Users/candacem/Documents/Projects/URLChallenge/URLEncoderChallenge/URLEncoderChallenge/obj/Debug/netcoreapp2.1/URLEncoderChallenge.AssemblyInfoInputs.cache
+/Users/candacem/Documents/Projects/URLChallenge/URLEncoderChallenge/URLEncoderChallenge/obj/Debug/netcoreapp2.1/URLEncoderChallenge.AssemblyInfo.cs
+/Users/candacem/Documents/Projects/URLChallenge/URLEncoderChallenge/URLEncoderChallenge/obj/Debug/netcoreapp2.1/URLEncoderChallenge.dll
+/Users/candacem/Documents/Projects/URLChallenge/URLEncoderChallenge/URLEncoderChallenge/obj/Debug/netcoreapp2.1/URLEncoderChallenge.pdb

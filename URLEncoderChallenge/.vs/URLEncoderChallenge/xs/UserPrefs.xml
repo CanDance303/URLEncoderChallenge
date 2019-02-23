@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7AF8A3F4-1033-4325-AE8A-F4EBA33E9EBA}|Default">
+  <MonoDevelop.Ide.ItemProperties.URLEncoderChallenge FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="URLEncoderChallenge/Program.cs">
+    <Files>
+      <File FileName="URLEncoderChallenge/Program.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
